@@ -1,0 +1,23 @@
+/*
+
+Single-line comments are prefixed by a #
+Multi-line comments are denoted using c-style comments, this block is an example.
+Settings are labeled by comments.
+The order of the settings in this file MUST not be changed.
+
+*/
+
+#smtp host address (default value for office365 is smtp.office365.com)
+smtp.office365.com
+
+#smtp port (default value for office365 is 587)
+587
+
+#contacts-file (Location of contact file, defaults to prompt the user)
+prompt
+
+#message-file (File to be used as a template, defaults to prompt)
+prompt
+
+#email-address (Defaults to prompt each time, can be set here for quicker login)
+prompt

@@ -1,0 +1,18 @@
+/*
+	Single-line comments are prefixed by a #
+	Multi-line comments are denoted using c-style comments, this block is an example.
+	
+	Fields are labeled by a heading prefixed by two hyphens.
+	The order of the fields in this file MUST not be changed.
+	
+	Comments in the message body will not be sent in the email.
+*/
+
+--Subject
+Lorem Ipsum	
+
+--MessageText
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc libero mi, tempor in quam placerat, cursus facilisis turpis. Ut imperdiet finibus nulla, ac facilisis purus luctus at. In iaculis, purus hendrerit suscipit egestas, leo augue gravida ligula, quis tristique lectus augue a enim. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi varius velit luctus ullamcorper dignissim. Nulla facilisi. Sed vitae sem non eros fringilla facilisis. In molestie nisi id convallis interdum. Etiam dapibus ultrices diam a consequat. Ut hendrerit leo quis nunc laoreet vestibulum. Quisque commodo felis vel erat auctor tempor. Integer cursus porta felis vitae ultrices. Nam ultrices mi non purus placerat tempor. Sed elementum pellentesque sodales. Nullam vitae mauris sem.
+
+Aliquam eget neque arcu. Curabitur vel tempus elit. Curabitur tristique nisi quis tortor consequat porta. Quisque id neque dictum, blandit ante in, tristique metus. Duis non purus eu velit convallis porttitor. Cras mollis ullamcorper elit et luctus. Sed tincidunt ligula mollis sem consequat, et luctus est cursus. Nulla ornare diam sapien, nec maximus mauris dictum in. Curabitur posuere ipsum elit, vitae bibendum mauris cursus non. Vivamus malesuada ante in mattis pharetra. Nullam ac porta nisl, at consequat nunc. Nam mollis risus sit amet sapien interdum faucibus.

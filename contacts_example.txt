@@ -1,0 +1,25 @@
+/*
+
+
+Formatting Guide:
+
+Group Headings are denoted by two hyphens (--) before the group name.
+
+Contact Entries are as follows
+"Example Name" "Example Email"
+
+Single-line comments are prefixed by a #
+Multi-line comments are denoted using c-style comments
+"this block is an example.
+
+To exclude a group from recieving emails sent to "all" prefix then name with an exclamation point (NYI)
+--!
+
+*/
+
+--Group 1
+"person 1 name" "person1@example.com"
+"person 2 name" "person2@example.com"
+--Group 2
+"person 3 name" "person3@example.com"
+"person 4 name" "person4@example.com"
