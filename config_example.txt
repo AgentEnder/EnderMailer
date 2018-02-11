@@ -21,3 +21,6 @@ prompt
 
 #email-address (Defaults to prompt each time, can be set here for quicker login)
 prompt
+
+#message-groups (Split by commas, default to prompting for groups. Mail is sent to groups set here.)
+prompt
